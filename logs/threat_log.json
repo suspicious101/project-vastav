@@ -1,3 +1,10 @@
 {"timestamp": "2025-07-15 19:50:24", "IR": 0.44, "RF": 0.16, "EM": 0.12, "Vibration": 0, "classification": "inactive"}
 {"timestamp": "2025-07-15 19:57:16", "IR": 0.55, "RF": 0.78, "EM": 0.07, "Vibration": 1, "classification": "real"}
 {"timestamp": "2025-07-15 19:57:27", "IR": 0.99, "RF": 0.95, "EM": 0.16, "Vibration": 1, "classification": "real"}
+{"timestamp": "2025-07-15 20:07:31", "IR": 0.63, "RF": 0.03, "EM": 0.45, "Vibration": 0, "classification": "inactive"}
+{"timestamp": "2025-07-15 20:07:36", "IR": 0.25, "RF": 0.32, "EM": 0.66, "Vibration": 1, "classification": "real"}
+{"timestamp": "2025-07-15 20:08:35", "IR": 0.33, "RF": 0.59, "EM": 0.09, "Vibration": 1, "Result": "real"}
+{"timestamp": "2025-07-15 20:08:42", "IR": 0.25, "RF": 0.84, "EM": 0.17, "Vibration": 0, "Result": "inactive"}
+{"timestamp": "2025-07-15 20:08:43", "IR": 0.25, "RF": 0.66, "EM": 0.32, "Vibration": 0, "Result": "inactive"}
+{"timestamp": "2025-07-15 20:08:57", "IR": 0.93, "RF": 0.83, "EM": 0.99, "Vibration": 0, "Result": "real"}
+{"timestamp": "2025-07-15 20:08:59", "IR": 0.92, "RF": 1.0, "EM": 0.36, "Vibration": 0, "Result": "inactive"}
