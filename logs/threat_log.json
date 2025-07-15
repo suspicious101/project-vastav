@@ -8,3 +8,36 @@
 {"timestamp": "2025-07-15 20:08:43", "IR": 0.25, "RF": 0.66, "EM": 0.32, "Vibration": 0, "Result": "inactive"}
 {"timestamp": "2025-07-15 20:08:57", "IR": 0.93, "RF": 0.83, "EM": 0.99, "Vibration": 0, "Result": "real"}
 {"timestamp": "2025-07-15 20:08:59", "IR": 0.92, "RF": 1.0, "EM": 0.36, "Vibration": 0, "Result": "inactive"}
+{"timestamp": "2025-07-15 20:46:25", "IR": 0.15, "RF": 0.88, "EM": 0.39, "Vibration": 0, "Prediction": "inactive", "Warnings": ["\u26a0\ufe0f Signal present without heat \u2013 possible decoy"]}
+{"timestamp": "2025-07-15 20:46:42", "IR": 0.1, "RF": 0.09, "EM": 0.94, "Vibration": 1, "Prediction": "real", "Warnings": ["\u26a0\ufe0f Signal present without heat \u2013 possible decoy"]}
+{"timestamp": "2025-07-15 20:46:43", "IR": 0.74, "RF": 0.3, "EM": 0.43, "Vibration": 1, "Prediction": "real", "Warnings": []}
+{"timestamp": "2025-07-15 20:46:45", "IR": 0.82, "RF": 0.75, "EM": 0.3, "Vibration": 1, "Prediction": "real", "Warnings": []}
+{"timestamp": "2025-07-15 20:46:45", "IR": 0.92, "RF": 0.78, "EM": 0.42, "Vibration": 1, "Prediction": "real", "Warnings": []}
+{"timestamp": "2025-07-15 20:46:46", "IR": 0.7, "RF": 0.07, "EM": 0.04, "Vibration": 0, "Prediction": "fake", "Warnings": []}
+{"timestamp": "2025-07-15 20:46:46", "IR": 0.9, "RF": 0.54, "EM": 0.4, "Vibration": 1, "Prediction": "real", "Warnings": []}
+{"timestamp": "2025-07-15 20:46:46", "IR": 0.78, "RF": 0.02, "EM": 0.91, "Vibration": 0, "Prediction": "inactive", "Warnings": []}
+{"timestamp": "2025-07-15 20:46:47", "IR": 0.79, "RF": 0.43, "EM": 0.32, "Vibration": 1, "Prediction": "real", "Warnings": []}
+{"timestamp": "2025-07-15 20:46:47", "IR": 0.91, "RF": 0.87, "EM": 0.17, "Vibration": 0, "Prediction": "inactive", "Warnings": []}
+{"timestamp": "2025-07-15 20:46:47", "IR": 0.03, "RF": 0.97, "EM": 0.26, "Vibration": 1, "Prediction": "real", "Warnings": ["\u26a0\ufe0f Signal present without heat \u2013 possible decoy"]}
+{"timestamp": "2025-07-15 20:46:48", "IR": 0.56, "RF": 0.52, "EM": 0.57, "Vibration": 1, "Prediction": "real", "Warnings": []}
+{"timestamp": "2025-07-15 20:46:48", "IR": 0.97, "RF": 0.19, "EM": 0.01, "Vibration": 1, "Prediction": "fake", "Warnings": []}
+{"timestamp": "2025-07-15 20:46:48", "IR": 0.11, "RF": 0.43, "EM": 0.42, "Vibration": 0, "Prediction": "inactive", "Warnings": []}
+{"timestamp": "2025-07-15 20:46:48", "IR": 0.4, "RF": 0.4, "EM": 0.35, "Vibration": 1, "Prediction": "real", "Warnings": []}
+{"timestamp": "2025-07-15 20:46:49", "IR": 0.83, "RF": 0.18, "EM": 0.25, "Vibration": 1, "Prediction": "inactive", "Warnings": []}
+{"timestamp": "2025-07-15 20:46:49", "IR": 0.36, "RF": 0.77, "EM": 0.67, "Vibration": 1, "Prediction": "real", "Warnings": []}
+{"timestamp": "2025-07-15 20:46:50", "IR": 0.39, "RF": 0.9, "EM": 0.48, "Vibration": 1, "Prediction": "real", "Warnings": []}
+{"timestamp": "2025-07-15 20:46:50", "IR": 0.27, "RF": 0.2, "EM": 0.07, "Vibration": 1, "Prediction": "inactive", "Warnings": []}
+{"timestamp": "2025-07-15 20:46:50", "IR": 0.43, "RF": 0.8, "EM": 0.81, "Vibration": 1, "Prediction": "real", "Warnings": []}
+{"timestamp": "2025-07-15 20:46:50", "IR": 0.39, "RF": 0.43, "EM": 0.61, "Vibration": 0, "Prediction": "real", "Warnings": []}
+{"timestamp": "2025-07-15 20:46:51", "IR": 0.88, "RF": 0.33, "EM": 0.64, "Vibration": 1, "Prediction": "real", "Warnings": []}
+{"timestamp": "2025-07-15 20:46:51", "IR": 0.14, "RF": 0.71, "EM": 0.06, "Vibration": 0, "Prediction": "inactive", "Warnings": ["\u26a0\ufe0f Signal present without heat \u2013 possible decoy"]}
+{"timestamp": "2025-07-15 20:46:51", "IR": 0.61, "RF": 0.48, "EM": 0.85, "Vibration": 0, "Prediction": "real", "Warnings": []}
+{"timestamp": "2025-07-15 20:46:52", "IR": 0.77, "RF": 0.85, "EM": 0.15, "Vibration": 1, "Prediction": "real", "Warnings": []}
+{"timestamp": "2025-07-15 20:46:52", "IR": 0.87, "RF": 0.37, "EM": 0.75, "Vibration": 0, "Prediction": "real", "Warnings": []}
+{"timestamp": "2025-07-15 20:46:52", "IR": 0.78, "RF": 0.41, "EM": 0.28, "Vibration": 0, "Prediction": "inactive", "Warnings": []}
+{"timestamp": "2025-07-15 20:46:52", "IR": 0.98, "RF": 0.36, "EM": 0.18, "Vibration": 0, "Prediction": "inactive", "Warnings": []}
+{"timestamp": "2025-07-15 20:46:53", "IR": 0.12, "RF": 0.71, "EM": 0.64, "Vibration": 1, "Prediction": "real", "Warnings": ["\u26a0\ufe0f Signal present without heat \u2013 possible decoy"]}
+{"timestamp": "2025-07-15 20:48:26", "IR": 0.16, "RF": 0.91, "EM": 0.38, "Vibration": 1, "Prediction": "real", "Warnings": ["\u26a0\ufe0f Signal present without heat \u2013 possible decoy"]}
+{"timestamp": "2025-07-15 20:48:27", "IR": 0.25, "RF": 0.58, "EM": 0.18, "Vibration": 0, "Prediction": "inactive", "Warnings": []}
+{"timestamp": "2025-07-15 20:48:29", "IR": 0.51, "RF": 0.36, "EM": 0.69, "Vibration": 0, "Prediction": "real", "Warnings": []}
+{"timestamp": "2025-07-15 20:48:29", "IR": 0.82, "RF": 0.08, "EM": 0.31, "Vibration": 1, "Prediction": "inactive", "Warnings": []}
